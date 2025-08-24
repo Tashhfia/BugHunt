@@ -31,5 +31,3 @@ The pipeline takes a **raw video** as input and outputs a **CSV file** containin
    * The tracker outputs a CSV file containing IDs and coordinates per frame:
      $`frame`, `ID`, `x`, `y`$.
 
-
-Do you want me to make that? It’ll look clean and professional.
